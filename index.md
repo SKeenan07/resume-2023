@@ -1,12 +1,12 @@
 # Hello, world.
 
-I'm Sarah, a Mac Desktop Support Analyst II at OHIO University. As a part of the Desktop and Device Engineering team, I primarily work with the university's Macs. On a typical day, you'll find me in an office writing a script, troubleshooting problems, maintaining patch management, and investigating new ideas. 
+I'm Sarah, a Mac Desktop Support Analyst II at Ohio University. As a part of the Desktop and Device Engineering team, I primarily work with the university's Macs. On a typical day, you'll find me in my office writing a script, troubleshooting problems, maintaining patch management, and investigating new ideas. 
 
 Before starting at the university, I was an IT Intern on the Applications Deployment team at Orrick, Herrington, & Sutcliffe. During my three and a half years there, I learned a great deal and assisted in imaging new devices, setting configurations, and managing the firm's Mac fleet. 
 
-I attended the Franciscan University of Steubenville. In May 2020, I completed their Master of Business Administration as a part of their 4 plus 1 program. In May 2019, I graduated with a Bachelor of Science in Computer Information Science and received the CIS Award for Most Outstanding Senior. Some of my favorite courses included Hardware and Software Systems, Web Development with Databases and Creative Cloud, and my Senior Projects.  
+I attended Franciscan University of Steubenville. In May 2020, I obtained a Master of Business Administration as a part of their 4 plus 1 program. In May 2019, I graduated with a Bachelor of Science in Computer Information Science and received the CIS Award for Most Outstanding Senior. Some of my favorite courses included Hardware and Software Systems, Web Development with Databases and Creative Cloud, and my Senior Projects.  
 
-If you find me outside of work, I'll either be spending time with family, training my German Shepherd, Brandy, or trying out some new recipe. I also enjoy reading, photography, and keeping up with the latest technologies. I aspire to live by the following quote by Walt Disney: Keep moving forward. 
+If you find me outside of work, I'll be spending time with family or my boyfriend, training my German Shepherd, Brandy, or trying out some new recipe. I also enjoy reading, photography, and keeping up with the latest technologies. I aspire to live by the following quote by Walt Disney: Keep moving forward. 
 
 ## Work Experience
 
@@ -31,3 +31,14 @@ Orrick, Herrington & Sutcliffe, LLP - Wheeling, WV, and Remote
 - Created packages, scripts, and profiles to be deployed with Jamf Pro and Microsoft SCCM, or Apple Remote Desktop
 - Developed operating system upgrade packages and application updates
 
+## Education
+
+**Master of Business Administration**, August 2018 - May 2020
+
+Franciscan University of Steubenville - Steubenville, OH
+
+**Bachelor of Science, Computer Information Science**, August 2015 - May 2019
+
+Franciscan University of Steubenville - Steubenville, OH
+
+- Received Computer Information Science Award
